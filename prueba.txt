@@ -1,0 +1,30 @@
+
+total 2097264
+drwxrwxrwt  18 root root       4096 nov 18 19:31 tmp
+drwxr-xr-x  21 root root       4660 nov 18 13:37 dev
+dr-xr-xr-x  13 root root          0 nov 18 13:37 sys
+dr-xr-xr-x 251 root root          0 nov 18 13:37 proc
+drwxr-xr-x  31 root root        900 nov 18 12:38 run
+drwxr-xr-x 126 root root      12288 nov 17 19:47 etc
+drwxr-xr-x   2 root root      12288 nov 17 19:47 sbin
+drwxr-xr-x   2 root root       4096 nov 17 19:47 bin
+drwxr-xr-x   4 root root       4096 nov 17 07:56 boot
+drwxr-xr-x  10 root root       4096 nov 15 11:18 snap
+drwxr-xr-x   3 root root       4096 nov 15 10:28 opt
+drwxr-xr-x   3 root root       4096 nov 15 10:20 media
+drwxr-xr-x  21 root root       4096 nov 15 10:16 lib
+drwxr-xr-x  24 root root       4096 nov 15 10:15 .
+drwxr-xr-x  24 root root       4096 nov 15 10:15 ..
+lrwxrwxrwx   1 root root         33 nov 15 10:15 initrd.img -> boot/initrd.img-4.18.0-10-generic
+lrwxrwxrwx   1 root root         30 nov 15 10:15 vmlinuz -> boot/vmlinuz-4.18.0-10-generic
+lrwxrwxrwx   1 root root         33 nov 15 10:14 initrd.img.old -> boot/initrd.img-4.18.0-10-generic
+drwxr-xr-x   3 root root       4096 nov 15 10:14 home
+drwxr-xr-x   2 root root       4096 nov 15 10:13 cdrom
+-rw-------   1 root root 2147483648 nov 15 10:12 swapfile
+drwx------   2 root root      16384 nov 15 10:12 lost+found
+drwxr-xr-x  14 root root       4096 oct 18 00:36 var
+drwx------   3 root root       4096 oct 18 00:34 root
+drwxr-xr-x  11 root root       4096 oct 18 00:28 usr
+drwxr-xr-x   2 root root       4096 oct 18 00:23 lib64
+drwxr-xr-x   2 root root       4096 oct 18 00:23 mnt
+drwxr-xr-x   2 root root       4096 oct 18 00:23 srv
